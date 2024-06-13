@@ -13,7 +13,7 @@ function login() {
     }
 }
 
-const backendUrl = 'YOUR_DEPLOYED_BACKEND_URL';
+const backendUrl = 'http://127.0.0.1:5000';
 
 async function fetchMessages() {
     const response = await fetch(`${backendUrl}/messages`);
