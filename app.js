@@ -44,3 +44,4 @@ async function sendMessage() {
 }
 
 setInterval(fetchMessages, 5000); // Fetch new messages every 5 seconds
+
