@@ -1,4 +1,4 @@
-const scriptURL = 'https://script.google.com/macros/s/AKfycbxYQyhSGcyxgcHdCX725NMjmVzZXEpi_Mp6sP0OcXWpYmdXNSflPNpfKnCkc6sMplIoxQ/exec';
+const scriptURL = 'https://script.google.com/macros/s/AKfycbwEGnWVRROHVsf2yUPqjCO8NsmWd__Wb7MIxl50JEmIonu26FnAO5c5Ss9KWVXBWjB3lA/exec';
 
 document.getElementById('sendButton').addEventListener('click', sendMessage);
 
