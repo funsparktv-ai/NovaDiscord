@@ -8,7 +8,7 @@ body {
     background-color: #f0f0f0;
     margin: 0;
 }
-#app {
+#login, #app {
     background: white;
     padding: 20px;
     border-radius: 8px;
@@ -22,9 +22,10 @@ body {
     margin-bottom: 10px;
     padding: 10px;
 }
-#messageInput {
+#messageInput, #usernameInput {
     width: calc(100% - 20px);
     padding: 10px;
+    margin-bottom: 10px;
 }
 button {
     padding: 10px 20px;
